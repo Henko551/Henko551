@@ -3,4 +3,11 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add 
+git remote add origin git@github.com:Henko551/Henko551.git
+git push -u origin main
+IP: "102.164.21.117"
+ISP: "Capricom-AS"
+City: "Limpopo, Polokwane"
+Country: "South Africa"
+Postal code: "0699"
+Timezone: "Africa/Johannesburg"
